@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.defaultInterpreterPath": "D:/Program Files/Anaconda/python.exe",
+    "cSpell.words": [
+        "deepchem",
+        "linspace"
+    ]
+
+}
