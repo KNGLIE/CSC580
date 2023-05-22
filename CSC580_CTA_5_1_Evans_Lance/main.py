@@ -3,7 +3,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import deepchem as dc
 from sklearn.metrics import accuracy_score
-from sklearn.metrics import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 import datetime
 
 np.random.seed(456)
